@@ -1,3 +1,4 @@
+
 **Project Description**
 
 This Power BI project focuses on analyzing customer flight activity and loyalty history.
@@ -9,8 +10,8 @@ Power BI , MS Excel
 
 **Tables Used :**
 
-Customer Flight Activity
+* Customer Flight Activity
 
-Customer Loyalty History
+* Customer Loyalty History
 
 **Questions Solved from this Project**
